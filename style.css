@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: poppins,sans-serif;
+    background-color:rgb(241, 238, 238);
+
+}
+.headertop{
+    margin-top: 10px;
+    background-color: #0d1a29; 
+    height: 90px;
+    width: 100%;
+}
+img {
+    margin:30px;
+}
+.socialLink{
+    width:200px;
+    height: 50px;
+    margin-top: -6%;
+    margin-left: 1000px;  
+}
+.socialLink a {
+    background: none;
+}
+.fa-brands{
+  padding: 13px;
+  font-size: 15px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa-facebook {
+    color: white;
+}
+.fa-instagram{
+    color: white;  
+}
+.fa-linkedin{
+        color: white;
+}
+.fa-twitter{
+      color: white;
+}
+.secondDiv{
+    background-color: #0752ad;
+    height: 150px;
+}
+.thirdDiv{
+    border-radius: 10px;
+    position: relative; top: -130px;
+    margin-left: 160px;
+    background-color: white;
+    height: 500px;
+    width:75%;
+    margin-bottom:5px;
+}
+.thirdDiv img{
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+.loginPage {
+    border-radius: 10px;
+    float:right;
+    margin-top: -370px;
+    margin-right: 6px;
+    background-color:white;
+    border: 1px;
+    height: 400px;
+    width:360px;
+}
+#logintab {
+    margin-left: 7px;
+    height: 50px;
+    width: 345px;
+    background-color: #0d1a29;
+}
+#image1{
+    float: left;
+margin-left: 4%;
+    margin-top: 4%;
+}
+.container1{
+    background-color: white;
+    border : 1px solid rgb(224, 224, 218);
+    margin-top: 7px; 
+    height: 320px;
+    border-radius: 2px;
+    
+}
+#login{
+    color: white;
+    padding-top: 15px;
+}
+input{
+    border: none;
+    background-color: #d0e0f3;
+    padding-left: 25px;
+    border-radius: 5px;
+    height: 47px;
+    width: 100%;
+}
+button {
+    border-color:none;
+    background-color: #0752ad;
+    color: white;
+    border-radius: 3px;
+    height: 30px;
+    width: 25%;
+}
+.login-footer {
+    margin-top: -130px;
+    background-color: #003778;
+    width:100%;
+    height:230px ;
+}
+.login-footer-links{
+    display: flex;
+    color:white;
+    padding-top: 35px;
+}
+.links-div{
+  
+    margin-left: 165px;
+    margin-top:-30px;
+    color: white;
+}
+.links-div h4{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: rgb(243, 220, 89);
+}
+ul{
+    list-style-type:square;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.footerdiv{
+    
+    width:100%;
+    height: 60px;
+    background-color: rgb(79, 142, 214);
+    
+}
+.fr1{
+    color: white;
+    float: left;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+
+.fr2{
+    color: white;
+    padding-top: 20px;
+    padding-left: 900px;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
